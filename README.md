@@ -53,32 +53,7 @@ All models were evaluated using:
 
 ---
 
-## 📈 Visual Results
 
-The repository contains plots for visual evaluation of all models.
-
-### 🔳 Confusion Matrices
-Each classifier's confusion matrix shows the number of correct and incorrect classifications:
-
-- `confusion_matrix_lightgbm.png`
-- `confusion_matrix_xgboost.png`
-- `confusion_matrix_catboost.png`
-- `confusion_matrix_gbdt.png`
-- `confusion_matrix_adaboost.png`
-- `confusion_matrix_bagging.png`
-- `confusion_matrix_ocsvm.png`
-- `confusion_matrix_bayes.png`
-
-### 📉 ROC Curves
-Receiver Operating Characteristic (ROC) curves illustrate the trade-off between TPR and FPR:
-
-- `roc_curve_lightgbm.png`
-- `roc_curve_xgboost.png`
-- `roc_curve_catboost.png`
-- ... and more
-- `roc_curve_all_models_comparison.png` — A combined ROC graph for all classifiers
-
----
 
 ## 🧪 Summary of Results
 
